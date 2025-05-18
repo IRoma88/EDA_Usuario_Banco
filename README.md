@@ -4,7 +4,7 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre una campañ
 
 ## 📁 Estructura del proyecto
 
-- `EDA_Usuario_Banco.ipynb`: Notebook principal con el análisis y visualizaciones.
+- `EDA_Usuario_Banco.py`: Notebook principal con el análisis y visualizaciones.
 - `analisis_campania_bancaria.pdf`: Resumen del análisis en formato PDF.
 - `requirements.txt`: Librerías necesarias para reproducir el entorno.
 - `.gitignore`: Archivos ignorados por Git.
